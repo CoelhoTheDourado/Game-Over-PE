@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="emptybreak.png"><SubTexture name="emptybreak0000" x="0" y="342" width="96" height="96" frameX="-96" frameY="-96" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0001" x="0" y="342" width="96" height="96" frameX="-96" frameY="-96" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0002" x="0" y="342" width="96" height="96" frameX="-96" frameY="-96" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0003" x="96" y="342" width="108" height="96" frameX="-90" frameY="-78" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0004" x="96" y="342" width="108" height="96" frameX="-90" frameY="-78" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0005" x="96" y="342" width="108" height="96" frameX="-90" frameY="-78" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0006" x="426" y="342" width="138" height="66" frameX="-72" frameY="-66" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0007" x="426" y="342" width="138" height="66" frameX="-72" frameY="-66" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0008" x="426" y="342" width="138" height="66" frameX="-72" frameY="-66" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0009" x="0" y="438" width="168" height="66" frameX="-60" frameY="-54" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0010" x="0" y="438" width="168" height="66" frameX="-60" frameY="-54" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0011" x="0" y="438" width="168" height="66" frameX="-60" frameY="-54" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0012" x="168" y="438" width="198" height="66" frameX="-42" frameY="-54" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0013" x="168" y="438" width="198" height="66" frameX="-42" frameY="-54" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0014" x="168" y="438" width="198" height="66" frameX="-42" frameY="-54" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0015" x="204" y="342" width="222" height="84" frameX="-30" frameY="-72" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0016" x="204" y="342" width="222" height="84" frameX="-30" frameY="-72" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0017" x="204" y="342" width="222" height="84" frameX="-30" frameY="-72" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0018" x="0" y="222" width="270" height="120" frameX="-6" frameY="-108" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0019" x="0" y="222" width="270" height="120" frameX="-6" frameY="-108" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0020" x="0" y="222" width="270" height="120" frameX="-6" frameY="-108" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0021" x="300" y="0" width="294" height="192" frameX="0" frameY="-162" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0022" x="300" y="0" width="294" height="192" frameX="0" frameY="-162" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0023" x="300" y="0" width="294" height="192" frameX="0" frameY="-162" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0024" x="0" y="0" width="300" height="222" frameX="0" frameY="-246" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0025" x="0" y="0" width="300" height="222" frameX="0" frameY="-246" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0026" x="0" y="0" width="300" height="222" frameX="0" frameY="-246" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0027" x="270" y="222" width="300" height="120" frameX="0" frameY="-366" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0028" x="270" y="222" width="300" height="120" frameX="0" frameY="-366" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0029" x="270" y="222" width="300" height="120" frameX="0" frameY="-366" frameWidth="300" frameHeight="486" />
+<SubTexture name="emptybreak0030" x="0" y="504" width="258" height="42" frameX="0" frameY="-444" frameWidth="300" frameHeight="486" />
+</TextureAtlas>
