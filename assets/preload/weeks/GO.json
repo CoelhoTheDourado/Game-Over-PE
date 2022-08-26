@@ -1,0 +1,31 @@
+{
+	"storyName": "TU MAMA SABE QUE TE TOCAS",
+	"difficulties": "Hard, hell",
+	"hideFreeplay": false,
+	"weekBackground": "go",
+	"freeplayColor": [
+		21,
+		89,
+		101
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Game-Over",
+			"no",
+			[
+				60,
+				0,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}
